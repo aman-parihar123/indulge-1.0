@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "passport-local-mongoose": "^6.1.0",
+    "xlsx": "^0.18.2"
+  }
+}
