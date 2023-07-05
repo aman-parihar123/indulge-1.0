@@ -1,0 +1,18 @@
+.jumbotron {
+  font-family: 'Source Sans Pro', sans-serif;
+  height: 70vh;
+  text-align: center;
+}
+.company-dashboard-container{
+  background-image: url("https://ik.imagekit.io/hrgu22madpa/tuxpi.com.1646069744_Zn1263qKgTn1.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1646069759781"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.link-button{
+  background-color: #1977D1;
+  border-radius: 4px;
+  color:white;
+  text-decoration: none;
+}
